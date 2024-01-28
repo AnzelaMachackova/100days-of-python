@@ -1,1 +1,1 @@
-# 100days-of-python
+# 100 days of Python: list of projects
